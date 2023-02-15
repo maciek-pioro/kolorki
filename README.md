@@ -1,8 +1,7 @@
-#
 1. Instalacja ZSH (shella alternatywnego do basha)
 ```
 $ sudo apt update
-$ sudo apt ins
+$ sudo apt install zsh
 ```
 2. Instalacja oh-my-zsh (pozwalającego na ustawianie tematów i innych fajnych rzeczy w ZSH):
 ```
